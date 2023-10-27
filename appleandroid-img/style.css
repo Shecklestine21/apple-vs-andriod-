@@ -1,0 +1,82 @@
+html {
+  background: rgb(204, 187, 154);
+}
+
+body {
+  background: white;
+  margin: 400px;
+  border-radius: 0px;
+  padding: 100px;
+}
+
+img {
+  width: 900px;
+  margin-left: 25px;
+}
+
+.button1 {
+  margin-left: 335px;
+  background-color: rgb(201, 132, 8);
+  padding: 15px 32px;
+  cursor: pointer;
+  font-size: medium;
+  border-radius: 5px;
+  border: none;
+  width: 250px;
+  height: 50px;
+}
+
+h1 {
+  margin-left: 10px;
+  font-family: helvetica;
+  font-weight: normal;
+  font-weight: bold;
+}
+
+p {
+  font-size: x-large;
+  text-align: left;
+  padding: 15px;
+  font-family: helvetica;
+}
+
+ul {
+  font-size: 22px;
+  font-family: helvetica;
+}
+
+.button-container {
+  display: flex;
+}
+
+.button2:hover {
+  cursor: pointer;
+}
+
+.button3:hover {
+  cursor: pointer;
+}
+
+.button2 {
+  width: 175px;
+  height: 50px;
+  border: 3px outset;
+  border-radius: 10px;
+  background-color: greenyellow;
+}
+
+.button3 {
+  width: 175px;
+  height: 50px;
+  border: 1px outset;
+  border-radius: 10px;
+  background-color: rgb(129, 129, 129);
+}
+
+.apple {
+  font-weight: bold;
+}
+
+.andriod {
+  font-weight: bold;
+}
